@@ -1,5 +1,5 @@
 {
-    "name": "darthsoup/laravel-whmcs",
+    "name": "darthsoup/laravel-whmcs", 
     "description": "Laravel WHMCS API interface",
     "license": "MIT",
     "authors": [
